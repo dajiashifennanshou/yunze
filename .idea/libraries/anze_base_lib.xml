@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="anze_base_lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extras_android/pulltorefresh/libs/anze_base_lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
